@@ -1,4 +1,4 @@
-// Ayyappa Reddy 
+// Ayyappa Reddy - Parallel MPI Codes
 
 
 #include <stdio.h> 
